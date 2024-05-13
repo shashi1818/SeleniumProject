@@ -33,6 +33,7 @@ public class JavaBasics {
 			System.out.println(s);
 		}
 		
+		
 	}
 
 }
